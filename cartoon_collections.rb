@@ -5,6 +5,8 @@ def roll_call_dwarves(names)# code an argument here
   end
 end
 
+roll_call_dwarves(["dopey", "sleepy"])
+
 def summon_captain_planet# code an argument here
   # Your code here
 end
